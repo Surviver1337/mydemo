@@ -1,0 +1,101 @@
+C:\Users\у\Desktop\Новая папка\RegAv\bin\Debug\RegAv.exe.config
+C:\Users\у\Desktop\Новая папка\RegAv\bin\Debug\RegAv.exe
+C:\Users\у\Desktop\Новая папка\RegAv\bin\Debug\RegAv.pdb
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.csproj.AssemblyReference.cache
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.csproj.SuggestedBindingRedirects.cache
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.Form1.resources
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.Properties.Resources.resources
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.csproj.GenerateResource.cache
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.csproj.CoreCompileInputs.cache
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.exe
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.pdb
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.avtoriza.resources
+C:\Users\у\Desktop\Новая папка\RegAv\obj\Debug\RegAv.profel.resources
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.csproj.AssemblyReference.cache
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.exe.config
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.avtoriza.resources
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.Form1.resources
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.profel.resources
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.Properties.Resources.resources
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.csproj.GenerateResource.cache
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.csproj.CoreCompileInputs.cache
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.exe
+C:\Users\Survi\OneDrive\Рабочий стол\Игнатулька\RegAv\obj\Debug\RegAv.pdb
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.csproj.AssemblyReference.cache
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.exe.config
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.avtoriza.resources
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.Form1.resources
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.profel.resources
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.Properties.Resources.resources
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.csproj.GenerateResource.cache
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.csproj.CoreCompileInputs.cache
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.exe
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.pdb
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\RegAv.exe.config
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\RegAv.exe
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\RegAv.pdb
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\MySql.Data.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\Google.Protobuf.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\ZstdNet.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\System.Memory.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\System.Buffers.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\bin\Debug\MySql.Data.xml
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.csproj.CopyComplete
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.Admin.resources
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.AdminD.resources
+C:\Users\Survi\OneDrive\Рабочий стол\УБРАТЬ\Игнатулька\RegAv\obj\Debug\RegAv.AdminR.resources
+C:\Users\Mom\Desktop\RegAv\bin\Debug\RegAv.exe.config
+C:\Users\Mom\Desktop\RegAv\bin\Debug\RegAv.exe
+C:\Users\Mom\Desktop\RegAv\bin\Debug\RegAv.pdb
+C:\Users\Mom\Desktop\RegAv\bin\Debug\Google.Protobuf.dll
+C:\Users\Mom\Desktop\RegAv\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.csproj.AssemblyReference.cache
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.exe.config
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.Admin.resources
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.AdminD.resources
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.AdminR.resources
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.avtoriza.resources
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.Form1.resources
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.profel.resources
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.Properties.Resources.resources
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.csproj.GenerateResource.cache
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.csproj.CoreCompileInputs.cache
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.csproj.CopyComplete
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.exe
+C:\Users\Mom\Desktop\RegAv\obj\Debug\RegAv.pdb
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\RegAv.exe.config
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\RegAv.exe
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\RegAv.pdb
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\MySql.Data.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\Google.Protobuf.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\ZstdNet.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\System.Memory.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\System.Buffers.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\bin\Debug\MySql.Data.xml
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.csproj.AssemblyReference.cache
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.exe.config
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.Admin.resources
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.AdminD.resources
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.AdminR.resources
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.avtoriza.resources
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.Form1.resources
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.profel.resources
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.Properties.Resources.resources
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.csproj.GenerateResource.cache
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.csproj.CoreCompileInputs.cache
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.csproj.CopyComplete
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.exe
+C:\Users\Survi\OneDrive\Рабочий стол\demo-test\RegAv\obj\Debug\RegAv.pdb
